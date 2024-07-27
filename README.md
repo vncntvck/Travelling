@@ -35,3 +35,7 @@ Kami sangat menghargai kontribusi dari siapa pun yang tertarik untuk membantu me
 Proyek ini dilisensikan di bawah [Nama Lisensi]. Silakan baca file `LICENSE` untuk informasi lebih lanjut.
 
 #Terima kasih telah mengunjungi dan mendukung proyek kami!
+
+This is a two-person project, the creators are:
+- Vincentius
+- Rassya
