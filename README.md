@@ -2,22 +2,23 @@
 
 Selamat datang di repositori proyek website ini! Website ini masih dalam tahap pengembangan, dan kami sedang bekerja keras untuk menyelesaikannya. Kami menghargai kesabaran dan dukungan Anda selama proses ini.
 
+## Status Pengembangan
+
+Proyek ini masih dalam tahap pengembangan awal. Berikut adalah beberapa tugas yang sedang kami kerjakan beserta persentase penyelesaiannya:
+
+- [x] Membuat struktur dasar HTML dan CSS - **100% Selesai**
+- [x] Mengimplementasikan navbar dan menu navigasi - **100% Selesai**
+- [ ] Menyelesaikan tampilan dan tata letak halaman utama - **55% Selesai**
+- [ ] Mengintegrasikan fitur-fitur utama - **50% Selesai**
+- [ ] Menguji dan memperbaiki bug - **30% Selesai**
+
+Total Progress: **68% Selesai**
+
 ## Fitur yang Direncanakan
 
 - **Navigasi yang Mudah**: Menyediakan menu navigasi yang intuitif untuk akses cepat ke berbagai bagian website.
-- **Konten Informasi**: Menyajikan informasi terkini dan relevan tentang [topik atau layanan yang diberikan oleh website].
 - **Tampilan Responsif**: Desain yang responsif untuk memastikan pengalaman pengguna yang optimal di berbagai perangkat.
 - **Integrasi Sosial Media**: Terhubung dengan akun sosial media untuk pembaruan dan interaksi yang lebih mudah.
-
-## Status Proyek
-
-Proyek ini masih dalam tahap pengembangan awal. Berikut adalah beberapa tugas yang sedang kami kerjakan:
-
-- [x] Membuat struktur dasar HTML dan CSS.
-- [x] Mengimplementasikan navbar dan menu navigasi.
-- [ ] Menyelesaikan tampilan dan tata letak halaman utama.
-- [ ] Mengintegrasikan fitur-fitur utama.
-- [ ] Menguji dan memperbaiki bug.
 
 ## Kontribusi
 
@@ -33,8 +34,4 @@ Kami sangat menghargai kontribusi dari siapa pun yang tertarik untuk membantu me
 
 Proyek ini dilisensikan di bawah [Nama Lisensi]. Silakan baca file `LICENSE` untuk informasi lebih lanjut.
 
-## Kontak
-
-Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami di [alamat email atau cara kontak lainnya].
-
-Terima kasih telah mengunjungi dan mendukung proyek kami!
+#Terima kasih telah mengunjungi dan mendukung proyek kami!
